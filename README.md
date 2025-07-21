@@ -46,3 +46,12 @@ pip install 'git+https://github.com/facebookresearch/detectron2.git'
 
 # Install eco2AI
 pip install eco2ai
+
+
+
+Then launch training using:
+
+python train_partiel.py \
+  --config-file configs/cityscapes/semantic-segmentation/maskformer2_R50_bs16_90k.yaml \
+  --num-gpus 1 \
+  OUTPUT_DIR output_directory
