@@ -1,4 +1,4 @@
-# Efficient-Mask2Former
+# Mask-Aware Pruning and Carbon-Constrained Scheduling for Efficient Semantic Segmentation
 This repository presents our work on enhancing the Mask2Former semantic segmentation model by integrating advanced model compression techniques and environmental impact tracking. We combine global pruning, partial pruning, and baseline Mask2Former to analyze performance, efficiency, and sustainability.
 
 ##  Project Overview
