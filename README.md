@@ -25,7 +25,6 @@ This repository presents our work on enhancing the Mask2Former semantic segmenta
 |----------------------|---------------|
 | **Baseline Mask2Former** | [Google Drive](https://drive.google.com/file/d/1fAC97Tj90bkmumAiY2_e2QDXvcIuwc64/view?usp=drive_link) |
 | **Global Pruning**       | [Google Drive](https://drive.google.com/file/d/1kOyVWFNPclER-PZFXzkcwgUq7PL2aMU7/view?usp=sharing) |
-| **Partial Pruning**      | [Google Drive](https://drive.google.com/file/d/1iHccMIck4Y5PZqAWVhA4m0-2wRIjDj_y/view?usp=drive_link) |
 | **localized Pruning**      | [Google Drive](https://drive.google.com/file/d/1XWvFjZWpLHTXY74_teeAt5q5PGP-Bmdv/view?usp=drive_link) |
 
 
